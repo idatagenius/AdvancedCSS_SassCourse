@@ -6,7 +6,7 @@
 @import "abstracts/variables";
 
 /* Base Folder */
-@import "base/animation";
+@import "base/animations";
 @import "base/base";
 @import "base/typography";
 @import "base/utilities";
@@ -16,6 +16,7 @@
 
 /* Layouts Folder */
 @import "layout/header";
+@import "layout/grid";
 
 /* Pages Folder */
 @import "pages/home";
