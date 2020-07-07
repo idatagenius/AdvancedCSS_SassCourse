@@ -12,7 +12,8 @@
 @import "base/utilities";
 
 /* Components Folder */
-@import "components/button.scss";
+@import "components/_button.scss";
+@import "components/_composition.scss";
 
 /* Layouts Folder */
 @import "layout/header";
