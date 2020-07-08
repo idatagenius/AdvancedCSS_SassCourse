@@ -6,7 +6,6 @@
         text-decoration: none;
         padding: 1.5rem 4rem;
         display: inline-block;
-        border-radius: 10rem;
         transition: all .2s;
         position: relative;
         font-size: $default-font-size;
@@ -24,6 +23,7 @@
     }
 
     &--white {
+        border-radius: 10rem;
         background-color: $color-white;
         color: $color-grey-dark;
         animation: moveInBottom .5s ease-out .75s;
@@ -31,6 +31,7 @@
     }
 
     &--green {
+        border-radius: 10rem;
         background-color: $color-primary;
         color: $color-white;
     }
