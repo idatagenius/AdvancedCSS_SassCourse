@@ -3,4 +3,4 @@ This is my repo where I will be working on the projects from the Advanced CSS &a
 
 
 # Progress
-Right now, I'm working on the Natours Project and in the Booking Section. I will update this README.md when I move ahead. 
+Right now, I'm working on the Natours Project and in the Footer Section. I will update this README.md when I move ahead. 
