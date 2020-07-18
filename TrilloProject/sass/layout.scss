@@ -6,7 +6,13 @@
     box-shadow: 0 2rem 6rem rgba($color: #000000, $alpha: .3);
 
     min-height: 50rem;
+
+    // Media Queries
+    @media only screen and (max-width: $bp-largest) {
+        margin: 0;
+    }
 }
+
 
 // Header
 .header {
